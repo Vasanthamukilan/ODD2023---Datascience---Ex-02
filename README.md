@@ -87,19 +87,28 @@ sns.boxplot(y='weight',data=weight_new)
 ```
 ## Output:
 ### bhp.csv:
-![bhp_1](https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/b714de8b-7f6f-46a2-9d04-ffa6db9292fb)
-![bhp_2](https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/3278fd59-f07b-44f8-a2dc-901130e8f6c8)
-![bhp_3](https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/7a12bf35-8e12-43aa-a3ed-5f8e911ea4b4)
-![bhp_4](https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/ce929073-a52d-4eaa-ba2b-8b164eb645bc)
-![bhp_5](https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/12696f6f-f53e-4529-b74c-9159b6d46721)
+<img height=30% width=70% src="https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/b714de8b-7f6f-46a2-9d04-ffa6db9292fb">
+
+<img height=30% width=70% src="https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/3278fd59-f07b-44f8-a2dc-901130e8f6c8">
+
+<img height=30% width=70% src="https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/7a12bf35-8e12-43aa-a3ed-5f8e911ea4b4">
+
+<img height=30% width=70% src="https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/ce929073-a52d-4eaa-ba2b-8b164eb645bc">
+
+<img height=30% width=70% src="https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/12696f6f-f53e-4529-b74c-9159b6d46721">
 
 ### Weight_Height.csv:
-![height_1](https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/f643ac77-9260-4734-a207-efb644dcf725)
-![height_2](https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/0a61fcba-4956-4c1b-884e-adeafd41ce68)
-![height_3](https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/12232ae5-4a16-46aa-bf5e-60161a594ad5)
-![height_4](https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/a766616c-8873-4151-9de8-cf33576766b4)
-![height_5](https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/22e7f902-6ee7-4cc3-a192-ae694203bd4c)
-![height_6](https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/aa65305e-ac4c-475d-af14-6fdc80a1bbf1)
+<img height=30% width=70% src="https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/f643ac77-9260-4734-a207-efb644dcf725">
+
+<img height=30% width=70% src="https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/0a61fcba-4956-4c1b-884e-adeafd41ce68">
+
+<img height=30% width=70% src="https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/12232ae5-4a16-46aa-bf5e-60161a594ad5">
+
+<img height=30% width=70% src="https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/a766616c-8873-4151-9de8-cf33576766b4">
+
+<img height=30% width=70% src="https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/22e7f902-6ee7-4cc3-a192-ae694203bd4c">
+
+<img height=30% width=70% src="https://github.com/Vasanthamukilan/ODD2023---Datascience---Ex-02/assets/119559694/aa65305e-ac4c-475d-af14-6fdc80a1bbf1">
 
 ## Result:
 Hence the given set of data is read and the outliers are removed using the IQR method and Zscore method.
